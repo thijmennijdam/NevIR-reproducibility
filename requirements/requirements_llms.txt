@@ -1,0 +1,8 @@
+protobuf
+sentencepiece
+torch
+transformers
+pandas
+datasets
+tqdm
+accelerate

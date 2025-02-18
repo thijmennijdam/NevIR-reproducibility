@@ -1,0 +1,8 @@
+pyserini==0.22.1
+faiss-cpu==1.9.0.post1
+sentence_transformers==2.2.2
+tensorflow==2.18.0 
+huggingface-hub==0.24.7
+transformers==4.29.0
+datasets==3.1.0
+coloredlogs

@@ -1,0 +1,8 @@
+pandas==2.2.3
+tqdm==4.67.1
+scikit-learn==1.5.2
+datasets==3.1.0
+sentence-transformers==3.3.1
+tiktoken==0.8.0
+protobuf==5.28.3
+sentencepiece==0.2.0

@@ -1,0 +1,8 @@
+pandas==2.2.3
+tqdm==4.67.1
+scikit-learn==1.5.2
+datasets==3.1.0
+sentence-transformers==2.2.2
+nltk==3.9.1
+huggingface-hub==0.25
+git+https://github.com/naver/splade.git

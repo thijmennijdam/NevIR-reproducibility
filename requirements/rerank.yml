@@ -1,0 +1,4 @@
+name: rerank
+dependencies:
+  - python=3.10
+  - conda-forge::openjdk=21.0.5

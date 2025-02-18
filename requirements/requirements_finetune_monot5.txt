@@ -1,0 +1,8 @@
+tokenizers==0.10.2
+transformers==4.6.1
+torch
+six==1.16.0
+pandas
+datasets
+polars
+sentence_transformers

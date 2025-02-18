@@ -1,0 +1,19 @@
+unsloth
+torch
+datasets
+trl
+huggingface-hub
+setuptools
+rank-bm25
+-e .
+# source .envs/finetune_listwise/bin/activate
+
+
+# # set hf cache to /scratch-shared/
+
+# export HF_HOME="/scratch-shared/tnijdam_ir2/hf_home"
+
+
+# uv run python src/finetune/mistral/finetune_nevir.py 
+
+#  uv run python src/finetune/mistral/evaluate_nevir.py 
