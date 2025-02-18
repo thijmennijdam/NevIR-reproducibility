@@ -250,8 +250,6 @@ The following datasets will be installed:
 - NevIR training, validation, and test triplets (TSV format)  
 - MS MARCO collection and top 1000 documents, including a custom file with 500 queries  
 - ExcluIR dataset  
-- Merged dataset of MS MARCO and NevIR (stored in `merged_dataset/`)  
-- Merged dataset of NevIR and ExcluIR (stored in `Exclu_NevIR_data/`)  
 
 ### **Experiment Configuration**  
 
