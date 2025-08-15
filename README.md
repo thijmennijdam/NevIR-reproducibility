@@ -395,7 +395,7 @@ Evaluate on NevIR:
 python src/finetune/monot5/dev_eval_nevir.py
 ```
 
-Evaluate on MS MARCO:  
+Evaluate on MS MARCO
 
 ```bash
 python src/finetune/monot5/dev_eval_msmarco.py \
